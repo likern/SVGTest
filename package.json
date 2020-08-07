@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.9.0",
+    "react": "16.13.1",
     "react-native": "0.61.4",
     "react-native-svg": "^9.13.3"
   },
